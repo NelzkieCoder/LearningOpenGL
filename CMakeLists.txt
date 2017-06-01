@@ -19,7 +19,7 @@ add_executable(GLFW_OpenGL ${SOURCE_FILES})
 
 
 add_subdirectory(${CMAKE_SOURCE_DIR}/glfw-3.2.1/)
-#add_subdirectory(/Users/skadush/Documents/GLFW_OpenGL/SOIL_Master/)
+
 MESSAGE(${CMAKE_SOURCE_DIR})
 
 
@@ -40,7 +40,7 @@ target_link_libraries(GLFW_OpenGL ${GLAD_LIB})
 target_link_libraries(GLFW_OpenGL glfw ${OPENGL_glu_LIBRARY} ${GLFW_LIBRARIES} ${SOIL_LIBRARY})
 
 
-find_package(GLEW REQUIRED)
+#find_package(GLEW REQUIRED)
 find_package(OpenGL REQUIRED)
 
 link_libraries(${GLEW_LIBRARIES})
