@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/glfw-3.2.1/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLM/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/SOIL/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLAD/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/glfw-3.2.1/include 
+CXX_INCLUDES = -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/glfw-3.2.1/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLM/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/SOIL/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLAD/include -I/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/glfw-3.2.1/include 
 

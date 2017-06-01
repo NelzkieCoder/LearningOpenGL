@@ -84,6 +84,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/glfw-3.2.1/include"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLM/include"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/SOIL/include"/>
@@ -111,6 +112,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/glfw-3.2.1/include"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/GLM/include"/>
 					<Add directory="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/includes/SOIL/include"/>
@@ -1394,7 +1396,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp">
+		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp">
+			<Option target="GLFW_OpenGL"/>
+		</Unit>
+		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/Shader.h">
 			<Option target="GLFW_OpenGL"/>
 		</Unit>
 		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/glfw-3.2.1/src/glfw_config.h">

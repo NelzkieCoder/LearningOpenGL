@@ -518,32 +518,32 @@ events/fast:
 	$(MAKE) -f glfw-3.2.1/tests/CMakeFiles/events.dir/build.make glfw-3.2.1/tests/CMakeFiles/events.dir/build
 .PHONY : events/fast
 
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
 
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o
 
 # target to build an object file
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
 
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
 
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i
 
 # target to preprocess a source file
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
 
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
 
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s
 
 # target to generate assembly for a file
-Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
-.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
+Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
+.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
 
 stb_image.o: stb_image.cpp.o
 
@@ -612,9 +612,9 @@ help:
 	@echo "... iconify"
 	@echo "... joysticks"
 	@echo "... events"
-	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o"
-	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i"
-	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s"
+	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o"
+	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i"
+	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s"
 	@echo "... stb_image.o"
 	@echo "... stb_image.i"
 	@echo "... stb_image.s"

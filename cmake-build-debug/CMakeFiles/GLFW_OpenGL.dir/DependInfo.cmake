@@ -4,13 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o"
+  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o"
   "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../Headers"
   "../includes/glfw-3.2.1/include"
   "../includes/GLM/include"
   "../includes/SOIL/include"

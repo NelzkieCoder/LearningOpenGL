@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o"
+  "CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o"
   "CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
   "GLFW_OpenGL.pdb"
   "GLFW_OpenGL"
