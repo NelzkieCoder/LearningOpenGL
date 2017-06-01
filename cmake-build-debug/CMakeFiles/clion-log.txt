@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL
+-- Could NOT find Vulkan (missing:  VULKAN_LIBRARY VULKAN_INCLUDE_DIR) 
+-- Could NOT find Doxygen (missing:  DOXYGEN_EXECUTABLE) 
+-- Using Cocoa for window creation
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug
