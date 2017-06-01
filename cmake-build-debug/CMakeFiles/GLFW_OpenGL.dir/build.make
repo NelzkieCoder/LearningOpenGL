@@ -57,38 +57,64 @@ include CMakeFiles/GLFW_OpenGL.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/GLFW_OpenGL.dir/flags.make
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o: ../Chapter1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o -c /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o: ../Chapter1/1.2\ Triangle_Indices/1.2_Triangle_Indices.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o -c "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp"
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp > CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.i
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp" > CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.s
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp" -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.requires:
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.requires:
 
-.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.requires
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.requires
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.provides: CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.provides.build
-.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.provides
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.provides: CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.requires
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.provides.build
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.provides
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.provides.build: CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.provides.build: CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
+
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o: ../stb_image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o -c /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp > CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.i
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp -o CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.s
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.requires:
+
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.requires
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.provides: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.requires
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.provides.build
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.provides
+
+CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.provides.build: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o
 
 
 # Object files for target GLFW_OpenGL
 GLFW_OpenGL_OBJECTS = \
-"CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o"
+"CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o" \
+"CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
 
 # External object files for target GLFW_OpenGL
 GLFW_OpenGL_EXTERNAL_OBJECTS =
 
-GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o
+GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
+GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o
 GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/build.make
 GLFW_OpenGL: ../Libraries/SOIL/lib/libSOIL.a
 GLFW_OpenGL: ../Libraries/GLAD/libglad.a
@@ -96,7 +122,7 @@ GLFW_OpenGL: glfw-3.2.1/src/libglfw3.a
 GLFW_OpenGL: ../Libraries/SOIL/lib/libSOIL.a
 GLFW_OpenGL: ../Libraries/GLAD/libglad.a
 GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable GLFW_OpenGL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable GLFW_OpenGL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GLFW_OpenGL.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -104,7 +130,8 @@ CMakeFiles/GLFW_OpenGL.dir/build: GLFW_OpenGL
 
 .PHONY : CMakeFiles/GLFW_OpenGL.dir/build
 
-CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o.requires
+CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o.requires
+CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.requires
 
 .PHONY : CMakeFiles/GLFW_OpenGL.dir/requires
 

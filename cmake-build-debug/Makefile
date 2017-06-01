@@ -518,32 +518,59 @@ events/fast:
 	$(MAKE) -f glfw-3.2.1/tests/CMakeFiles/events.dir/build.make glfw-3.2.1/tests/CMakeFiles/events.dir/build
 .PHONY : events/fast
 
-Chapter1/main.o: Chapter1/main.cpp.o
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
 
-.PHONY : Chapter1/main.o
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o
 
 # target to build an object file
-Chapter1/main.cpp.o:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o
-.PHONY : Chapter1/main.cpp.o
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o
 
-Chapter1/main.i: Chapter1/main.cpp.i
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
 
-.PHONY : Chapter1/main.i
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i
 
 # target to preprocess a source file
-Chapter1/main.cpp.i:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.i
-.PHONY : Chapter1/main.cpp.i
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.i
 
-Chapter1/main.s: Chapter1/main.cpp.s
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s: Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
 
-.PHONY : Chapter1/main.s
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s
 
 # target to generate assembly for a file
-Chapter1/main.cpp.s:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.s
-.PHONY : Chapter1/main.cpp.s
+Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
+.PHONY : Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.s
+
+stb_image.o: stb_image.cpp.o
+
+.PHONY : stb_image.o
+
+# target to build an object file
+stb_image.cpp.o:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o
+.PHONY : stb_image.cpp.o
+
+stb_image.i: stb_image.cpp.i
+
+.PHONY : stb_image.i
+
+# target to preprocess a source file
+stb_image.cpp.i:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.i
+.PHONY : stb_image.cpp.i
+
+stb_image.s: stb_image.cpp.s
+
+.PHONY : stb_image.s
+
+# target to generate assembly for a file
+stb_image.cpp.s:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.s
+.PHONY : stb_image.cpp.s
 
 # Help Target
 help:
@@ -585,9 +612,12 @@ help:
 	@echo "... iconify"
 	@echo "... joysticks"
 	@echo "... events"
-	@echo "... Chapter1/main.o"
-	@echo "... Chapter1/main.i"
-	@echo "... Chapter1/main.s"
+	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.o"
+	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.i"
+	@echo "... Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.s"
+	@echo "... stb_image.o"
+	@echo "... stb_image.i"
+	@echo "... stb_image.s"
 .PHONY : help
 
 

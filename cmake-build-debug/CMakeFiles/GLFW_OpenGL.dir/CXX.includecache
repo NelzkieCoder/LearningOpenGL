@@ -76,11 +76,45 @@ GL/glext.h
 GL/glu.h
 -
 
-/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
 -
 iostream
 -
+
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/stb_image.h
+stb_image.h
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp
+Headers/stb_image.h
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/stb_image.h
 

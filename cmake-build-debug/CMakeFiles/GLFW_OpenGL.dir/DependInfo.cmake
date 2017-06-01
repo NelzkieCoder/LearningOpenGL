@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/main.cpp.o"
+  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/1.2_Triangle_Indices/1.2_Triangle_Indices.cpp.o"
+  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

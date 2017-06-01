@@ -1394,7 +1394,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/main.cpp">
+		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/1.2 Triangle_Indices/1.2_Triangle_Indices.cpp">
 			<Option target="GLFW_OpenGL"/>
 		</Unit>
 		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/glfw-3.2.1/src/glfw_config.h">
@@ -1631,6 +1631,9 @@
 		</Unit>
 		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/glfw-3.2.1/tests/windows.c">
 			<Option target="windows"/>
+		</Unit>
+		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp">
+			<Option target="GLFW_OpenGL"/>
 		</Unit>
 		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
