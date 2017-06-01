@@ -57,28 +57,28 @@ include CMakeFiles/GLFW_OpenGL.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/GLFW_OpenGL.dir/flags.make
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o: ../Chapter1/2.1\ Shaders/Exercises/2.2_Shaders.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o -c "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp"
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o: ../Chapter1/3.1\ Textures/Exercises/3.2_Textures.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o -c "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp"
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp" > CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp" > CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp" -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp" -o CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.requires:
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.requires:
 
-.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.requires
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.requires
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.provides: CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.requires
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.provides.build
-.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.provides
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.provides: CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.requires
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.provides.build
+.PHONY : CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.provides
 
-CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.provides.build: CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
+CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.provides.build: CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o
 
 
 CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o: CMakeFiles/GLFW_OpenGL.dir/flags.make
@@ -107,20 +107,18 @@ CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.provides.build: CMakeFiles/GLFW_OpenG
 
 # Object files for target GLFW_OpenGL
 GLFW_OpenGL_OBJECTS = \
-"CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o" \
+"CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o" \
 "CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
 
 # External object files for target GLFW_OpenGL
 GLFW_OpenGL_EXTERNAL_OBJECTS =
 
-GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
+GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o
 GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o
 GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/build.make
-GLFW_OpenGL: ../Libraries/SOIL/lib/libSOIL.a
 GLFW_OpenGL: ../Libraries/GLAD/libglad.a
 GLFW_OpenGL: glfw-3.2.1/src/libglfw3.a
 GLFW_OpenGL: ../Libraries/SOIL/lib/libSOIL.a
-GLFW_OpenGL: ../Libraries/GLAD/libglad.a
 GLFW_OpenGL: CMakeFiles/GLFW_OpenGL.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable GLFW_OpenGL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GLFW_OpenGL.dir/link.txt --verbose=$(VERBOSE)
@@ -130,7 +128,7 @@ CMakeFiles/GLFW_OpenGL.dir/build: GLFW_OpenGL
 
 .PHONY : CMakeFiles/GLFW_OpenGL.dir/build
 
-CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o.requires
+CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o.requires
 CMakeFiles/GLFW_OpenGL.dir/requires: CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o.requires
 
 .PHONY : CMakeFiles/GLFW_OpenGL.dir/requires

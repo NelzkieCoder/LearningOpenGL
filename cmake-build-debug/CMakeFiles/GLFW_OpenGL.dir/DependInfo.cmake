@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o"
+  "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o"
   "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/stb_image.cpp" "/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/cmake-build-debug/CMakeFiles/GLFW_OpenGL.dir/stb_image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

@@ -1396,7 +1396,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp">
+		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp">
 			<Option target="GLFW_OpenGL"/>
 		</Unit>
 		<Unit filename="/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/Shader.h">

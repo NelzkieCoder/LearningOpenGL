@@ -518,32 +518,32 @@ events/fast:
 	$(MAKE) -f glfw-3.2.1/tests/CMakeFiles/events.dir/build.make glfw-3.2.1/tests/CMakeFiles/events.dir/build
 .PHONY : events/fast
 
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
+Chapter1/3.1_Textures/Exercises/3.2_Textures.o: Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o
 
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.o
 
 # target to build an object file
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.o
+Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.o
 
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
+Chapter1/3.1_Textures/Exercises/3.2_Textures.i: Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i
 
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.i
 
 # target to preprocess a source file
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.i
+Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.i
 
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s: Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
+Chapter1/3.1_Textures/Exercises/3.2_Textures.s: Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s
 
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.s
 
 # target to generate assembly for a file
-Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s:
-	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
-.PHONY : Chapter1/2.1_Shaders/Exercises/2.2_Shaders.cpp.s
+Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s:
+	$(MAKE) -f CMakeFiles/GLFW_OpenGL.dir/build.make CMakeFiles/GLFW_OpenGL.dir/Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s
+.PHONY : Chapter1/3.1_Textures/Exercises/3.2_Textures.cpp.s
 
 stb_image.o: stb_image.cpp.o
 
@@ -612,9 +612,9 @@ help:
 	@echo "... iconify"
 	@echo "... joysticks"
 	@echo "... events"
-	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.o"
-	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.i"
-	@echo "... Chapter1/2.1_Shaders/Exercises/2.2_Shaders.s"
+	@echo "... Chapter1/3.1_Textures/Exercises/3.2_Textures.o"
+	@echo "... Chapter1/3.1_Textures/Exercises/3.2_Textures.i"
+	@echo "... Chapter1/3.1_Textures/Exercises/3.2_Textures.s"
 	@echo "... stb_image.o"
 	@echo "... stb_image.i"
 	@echo "... stb_image.s"

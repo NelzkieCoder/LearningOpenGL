@@ -18,6 +18,44 @@ sstream
 iostream
 -
 
+../Headers/filesystem.h
+string
+-
+root_directory.h
+../Headers/root_directory.h
+
+../Headers/root_directory.h
+
+../Headers/stb_image.h
+stb_image.h
+../Headers/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
 ../includes/GLAD/include/KHR/khrplatform.h
 sys/cdefs.h
 -
@@ -88,7 +126,7 @@ GL/glext.h
 GL/glu.h
 -
 
-/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/2.1 Shaders/Exercises/2.2_Shaders.cpp
+/Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Chapter1/3.1 Textures/Exercises/3.2_Textures.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
@@ -98,6 +136,10 @@ iostream
 cmath
 -
 Shader.h
+-
+stb_image.h
+-
+filesystem.h
 -
 
 /Users/skadush/Documents/LEARNING_OPENGL_exercises/LearningOpenGL/Headers/stb_image.h
