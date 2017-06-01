@@ -34,10 +34,8 @@ include_directories(${CMAKE_SOURCE_DIR}/includes/SOIL/include/)
 include_directories(${CMAKE_SOURCE_DIR}/includes/GLAD/include/)
 
 
-
-
-target_link_libraries(GLFW_OpenGL ${GLAD_LIB})
-target_link_libraries(GLFW_OpenGL glfw ${OPENGL_glu_LIBRARY} ${GLFW_LIBRARIES} ${SOIL_LIBRARY})
+#target_link_libraries(GLFW_OpenGL ${GLAD_LIB})
+target_link_libraries(GLFW_OpenGL glfw ${OPENGL_glu_LIBRARY} ${GLFW_LIBRARIES} ${GLAD_LIB} ${SOIL_LIBRARY})
 
 
 #find_package(GLEW REQUIRED)

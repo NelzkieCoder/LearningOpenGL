@@ -56,8 +56,8 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="34" />
+            <state relative-caret-position="549">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -772,12 +772,12 @@
       <workItem from="1496227221694" duration="1790000" />
       <workItem from="1496299413257" duration="101000" />
       <workItem from="1496299627402" duration="13055000" />
-      <workItem from="1496313266684" duration="1170000" />
+      <workItem from="1496313266684" duration="1249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41227000" />
+    <option name="totallyTimeSpent" value="41306000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1161,8 +1161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="34" />
+        <state relative-caret-position="549">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="47" />
           <folding />
         </state>
       </provider>
