@@ -43,7 +43,7 @@ target_link_libraries(GLFW_OpenGL glfw ${OPENGL_glu_LIBRARY} ${GLFW_LIBRARIES} $
 #find_package(GLEW REQUIRED)
 find_package(OpenGL REQUIRED)
 
-link_libraries(${GLEW_LIBRARIES})
+#link_libraries(${GLEW_LIBRARIES})
 #if (APPLE)
 #    target_link_libraries(GLFW_OpenGL "-framework OpenGL")
 #    target_link_libraries(GLFW_OpenGL  -lGLEW )
